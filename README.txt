@@ -12,4 +12,12 @@ I have a number of other research interests, and really enjoy coding. I much pre
 
 
 
-This is Chris Gonzalez. I am an expert programmer.
+This is Chris Gonzalez. I am an expert programmer. (Not really.)
+
+In reality I am a PhD student in MESB MCBS at UNH, and I focus on applying bioinformatic techniques with sequencing data to 
+investigate the evolution of large gene families, especially those related to sensory system evolution.
+
+I have long term interests in applying this to the evolution of developmental genes related to morphological adaptation. I also have
+a passion for teaching and will probably work at a teaching-focused institution in the future.
+
+
